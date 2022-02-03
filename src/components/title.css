@@ -1,0 +1,10 @@
+.title {
+    color: white;
+    font-size: 6vw;
+}
+
+.title-container {
+    margin: 0;
+    padding: 10rem;
+    background-color: rgba(0, 82, 97, 0.87);
+}

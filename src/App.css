@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.chargement{
+  font-size:14px;
+  color:#ccc;
+  
+}
+
+.car-details {
+  border: 2px black solid;
+  border-radius: 10px;
+  margin: 2rem;
+}
